@@ -44,6 +44,43 @@ CloudApp is a comprehensive cloud-based project management and collaboration pla
 - **[FAQ](docs/support/faq.md)** - Frequently asked questions
 - **[Contact Support](docs/support/contact.md)** - Get additional help
 
+## Local Development Setup
+
+### Prerequisites
+- Git
+- A modern web browser
+- A local web server (optional, for testing)
+
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/OluwaTossin/cloudapp-user-guide.git
+cd cloudapp-user-guide
+
+# Option 1: Using Python (recommended)
+cd docs
+python -m http.server 3000
+# Visit http://localhost:3000
+
+# Option 2: Using Node.js
+npx serve docs
+# Visit http://localhost:3000
+
+# Option 3: Using VS Code Live Server extension
+# Right-click on docs/index.html and select "Open with Live Server"
+```
+
+### Making Changes
+1. Create a new branch: `git checkout -b feature/your-feature-name`
+2. Make your changes to markdown files in the `docs/` folder
+3. Test locally using one of the methods above
+4. Commit changes: `git commit -am "Description of changes"`
+5. Push to your fork: `git push origin feature/your-feature-name`
+6. Create a Pull Request
+
+### Deployment
+Documentation is automatically deployed to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch. The live site is available at: **https://oluwatossin.github.io/cloudapp-user-guide/**
+
 ## Additional Resources
 
 ### Contributing
@@ -82,6 +119,35 @@ CloudApp is a comprehensive cloud-based project management and collaboration pla
 - **📋 Content Management**: Headless CMS integration for easier content updates
 
 *These enhancements are prioritized based on user feedback and usage analytics.*
+
+## About This Documentation
+
+### Author & Technical Writer
+**Oluwatosin Jegede** - Technical Writer & DevOps Engineer
+
+This documentation project demonstrates:
+- **Documentation as Code**: Markdown-based documentation in version control
+- **Automated CI/CD**: GitHub Actions workflow for continuous deployment
+- **Modern Documentation Framework**: Docsify static site generation
+- **User-Centric Design**: Progressive information architecture from beginner to advanced
+- **Professional Standards**: Consistent formatting, comprehensive coverage, and accessibility
+
+### My Role & Process
+1. **Information Architecture**: Designed the complete documentation structure and navigation flow
+2. **Content Development**: Created comprehensive user guides, API references, and troubleshooting resources
+3. **DevOps Implementation**: Set up GitHub Actions workflows for automated deployment to GitHub Pages
+4. **UX Enhancement**: Implemented search functionality, responsive navigation, and styled page transitions
+5. **Quality Assurance**: Established style guides, contribution guidelines, and documentation standards
+
+### Technologies Used
+- **Docsify**: Zero-config documentation site generator
+- **GitHub Pages**: Hosting and deployment platform
+- **GitHub Actions**: CI/CD automation
+- **Markdown**: Content authoring format
+- **Git**: Version control and collaboration
+
+### Live Documentation
+🌐 **View Live**: [https://oluwatossin.github.io/cloudapp-user-guide/](https://oluwatossin.github.io/cloudapp-user-guide/)
 
 ## Support
 
