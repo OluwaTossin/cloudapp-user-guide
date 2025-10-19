@@ -147,9 +147,9 @@ A: Public projects are visible to all team members in your organization. Private
 Now that you've mastered the basics:
 
 1. **[Learn advanced navigation](interface-overview.md)** to work more efficiently
-2. **[Explore project management features](../user-guide/projects.md)** for complex workflows
-3. **[Set up integrations](../advanced/integrations.md)** to connect your existing tools
-4. **[Customize your workspace](../advanced/customization.md)** for optimal productivity
+2. **[Explore project management features](user-guide/projects.md)** for complex workflows
+3. **[Set up integrations](advanced/integrations.md)** to connect your existing tools
+4. **[Customize your workspace](advanced/customization.md)** for optimal productivity
 
 ## Getting Help
 
@@ -161,4 +161,4 @@ Now that you've mastered the basics:
 
 ---
 
-*Ready to dive deeper? Explore our [comprehensive user guide](../user-guide/dashboard.md) for advanced features and workflows.*
+*Ready to dive deeper? Explore our [comprehensive user guide](user-guide/dashboard.md) for advanced features and workflows.*

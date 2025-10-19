@@ -9,7 +9,7 @@ This comprehensive FAQ addresses the most common questions about CloudApp. Quest
 ### Account and Setup
 
 **Q: How do I create a CloudApp account?**
-A: Visit [cloudapp.com/signup](https://cloudapp.com/signup), enter your email address, and follow the verification process. You'll need to verify your email, complete your profile, and set up security preferences. See our [Installation & Setup Guide](../getting-started/installation.md) for detailed instructions.
+A: Visit [cloudapp.com/signup](https://cloudapp.com/signup), enter your email address, and follow the verification process. You'll need to verify your email, complete your profile, and set up security preferences. See our [Installation & Setup Guide](getting-started/installation.md) for detailed instructions.
 
 **Q: What browsers are supported by CloudApp?**
 A: CloudApp supports:
@@ -30,7 +30,7 @@ A: Minimum requirements:
 - **Storage**: 500MB available disk space
 - **Processor**: 2 GHz dual-core processor
 
-See our [complete system requirements](../getting-started/installation.md#system-requirements) for details.
+See our [complete system requirements](getting-started/installation.md#system-requirements) for details.
 
 ### Account Management
 
@@ -63,7 +63,7 @@ A: Project limits depend on your subscription plan:
 - **Enterprise Plan**: Unlimited projects
 
 **Q: Can I duplicate or template a project?**
-A: Yes! Right-click any project and select "Save as Template" or "Duplicate Project." This copies the folder structure, settings, and team configuration. See our [Project Management Guide](../user-guide/projects.md#project-templates) for details.
+A: Yes! Right-click any project and select "Save as Template" or "Duplicate Project." This copies the folder structure, settings, and team configuration. See our [Project Management Guide](user-guide/projects.md#project-templates) for details.
 
 **Q: How do I transfer project ownership?**
 A: Go to **Project Settings** > **Team** > click the current owner > **Transfer Ownership**. Only project owners can transfer ownership, and the new owner must accept the transfer.
@@ -78,7 +78,7 @@ A: CloudApp supports virtually all file types including:
 - Archives (ZIP, RAR, 7Z)
 - Code files (most programming languages)
 
-See our [complete list of supported formats](../user-guide/files.md#supported-file-types).
+See our [complete list of supported formats](user-guide/files.md#supported-file-types).
 
 **Q: What's the maximum file size I can upload?**
 A: Individual file size limits:
@@ -133,7 +133,7 @@ A: Real-time features include:
 - Conflict prevention for simultaneous edits
 - Auto-save to prevent data loss
 
-See our [Collaboration Guide](../user-guide/collaboration.md#real-time-collaboration) for details.
+See our [Collaboration Guide](user-guide/collaboration.md#real-time-collaboration) for details.
 
 ### File Sharing
 
@@ -166,7 +166,7 @@ A: CloudApp integrates with 50+ services including:
 - **Development**: GitHub, GitLab, Bitbucket
 - **Design**: Figma, Adobe Creative Suite
 
-See our [complete integrations list](../advanced/integrations.md).
+See our [complete integrations list](advanced/integrations.md).
 
 **Q: How do I connect Google Drive to CloudApp?**
 A: Go to **Settings** > **Integrations** > **Google Drive** > **Connect**. You'll be redirected to Google for authorization. Once connected, you can access Google Drive files directly within CloudApp projects.
@@ -187,7 +187,7 @@ A: Common automation scenarios:
 - Approval workflows
 - Backup and archiving processes
 
-See our [Automation Guide](../advanced/automation.md) for detailed examples.
+See our [Automation Guide](advanced/automation.md) for detailed examples.
 
 **Q: Do I need technical skills to create workflows?**
 A: No! CloudApp provides:

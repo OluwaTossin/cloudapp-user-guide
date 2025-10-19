@@ -267,8 +267,8 @@ Examples:
 
 Now that you understand the interface:
 - **[Start your first project](first-steps.md)** with confidence
-- **[Explore dashboard features](../user-guide/dashboard.md)** for productivity
-- **[Learn advanced navigation](../user-guide/projects.md)** techniques
-- **[Customize your experience](../advanced/customization.md)** for optimal workflow
+- **[Explore dashboard features](user-guide/dashboard.md)** for productivity
+- **[Learn advanced navigation](user-guide/projects.md)** techniques
+- **[Customize your experience](advanced/customization.md)** for optimal workflow
 
 *Master these interface principles to work efficiently and confidently within CloudApp's comprehensive collaboration platform.*

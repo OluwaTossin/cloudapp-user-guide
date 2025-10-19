@@ -56,7 +56,7 @@ Solution:
 | Possible Cause | Solution |
 |----------------|----------|
 | File too large (>100MB) | Split large files or use cloud storage integration |
-| Unsupported file type | Check [supported formats](../user-guide/files.md#supported-formats) |
+| Unsupported file type | Check [supported formats](user-guide/files.md#supported-formats) |
 | Network timeout | Try smaller batches, check internet stability |
 | Browser compatibility | Update browser or try different browser |
 

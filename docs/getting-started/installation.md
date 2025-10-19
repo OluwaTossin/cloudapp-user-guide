@@ -109,9 +109,9 @@ Before proceeding to first steps, ensure you have:
 ## Next Steps
 
 Now that your account is set up, you're ready to:
-- **[Take your first steps](first-steps.md)** with creating a project
-- **[Learn the interface](interface-overview.md)** to navigate efficiently
-- **[Explore core features](../user-guide/dashboard.md)** for daily productivity
+- **[Take your first steps](getting-started/first-steps.md)** with creating a project
+- **[Learn the interface](getting-started/interface-overview.md)** to navigate efficiently
+- **[Explore core features](user-guide/dashboard.md)** for daily productivity
 
 ## Troubleshooting Setup Issues
 
@@ -139,4 +139,4 @@ Now that your account is set up, you're ready to:
 
 ---
 
-Need help? Contact our [support team](../support/contact.md) or check our [troubleshooting guide](../support/troubleshooting.md).
+Need help? Contact our [support team](support/contact.md) or check our [troubleshooting guide](support/troubleshooting.md).
