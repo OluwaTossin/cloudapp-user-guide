@@ -275,9 +275,8 @@ docs/
 
 For questions about this documentation or contribution guidelines, contact:
 
-**Technical Writer**: Oluwatosin Jegede  
-**LinkedIn**: [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/)  
-**Portfolio**: [https://oluwatossin.github.io/](https://oluwatossin.github.io/)
+**Documentation Maintainer**: Oluwatosin Jegede  
+**LinkedIn**: [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/)
 
 ---
 

@@ -291,4 +291,4 @@ Before publishing any content, verify:
 
 ---
 
-*This style guide is a living document, updated regularly to reflect evolving best practices and user feedback. For questions or suggestions, contact Oluwatosin Jegede at [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/) or visit [https://oluwatossin.github.io/](https://oluwatossin.github.io/).*
+*This style guide is a living document, updated regularly to reflect evolving best practices and user feedback. For questions or suggestions about documentation standards, contact Oluwatosin Jegede at [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/).*
