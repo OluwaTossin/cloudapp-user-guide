@@ -364,3 +364,8 @@ If you can't find the answer you're looking for:
 4. **Join our Community Forum** to connect with other users
 
 *This FAQ is updated regularly based on user questions and feedback. Suggest new questions or improvements by contacting our support team.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/support/troubleshooting" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Troubleshooting</a>
+  <a href="#/support/contact" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Contact Support →</a>
+</div>

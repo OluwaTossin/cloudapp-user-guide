@@ -323,3 +323,8 @@ Budget Approval Workflow:
 ---
 
 *Effective workflow automation transforms manual processes into efficient, consistent, and scalable operations that enhance productivity while reducing errors and ensuring compliance with business requirements.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/advanced/customization" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Customization</a>
+  <a href="#/support/troubleshooting" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Troubleshooting →</a>
+</div>

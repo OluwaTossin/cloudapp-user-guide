@@ -286,3 +286,8 @@ CloudApp's collaboration features transform individual work into seamless team p
 ---
 
 *Effective collaboration transforms individual contributions into exceptional team achievements. Master these tools and practices to build high-performing, engaged teams that deliver outstanding results.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/user-guide/files" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Files</a>
+  <a href="#/advanced/integrations" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Integrations →</a>
+</div>

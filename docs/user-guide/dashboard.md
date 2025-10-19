@@ -236,3 +236,8 @@ CloudApp's mobile interface adapts for smaller screens:
 - **[Master project management](projects.md)** for complex workflows
 - **[Learn file organization](files.md)** for efficient content management
 - **[Explore collaboration features](collaboration.md)** for team productivity
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/getting-started/interface-overview" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Interface Overview</a>
+  <a href="#/user-guide/projects" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Projects →</a>
+</div>

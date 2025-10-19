@@ -140,3 +140,8 @@ Now that your account is set up, you're ready to:
 ---
 
 Need help? Contact our [support team](support/contact.md) or check our [troubleshooting guide](support/troubleshooting.md).
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <span style="color: #ccc;">← Previous</span>
+  <a href="#/getting-started/first-steps" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: First Steps →</a>
+</div>

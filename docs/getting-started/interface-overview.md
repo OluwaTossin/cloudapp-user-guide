@@ -272,3 +272,8 @@ Now that you understand the interface:
 - **[Customize your experience](advanced/customization.md)** for optimal workflow
 
 *Master these interface principles to work efficiently and confidently within CloudApp's comprehensive collaboration platform.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/getting-started/first-steps" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: First Steps</a>
+  <a href="#/user-guide/dashboard" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Dashboard →</a>
+</div>

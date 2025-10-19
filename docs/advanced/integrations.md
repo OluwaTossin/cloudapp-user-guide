@@ -296,3 +296,8 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 ---
 
 *Effective integration management enhances productivity by creating seamless workflows across your preferred tools and services. Regular maintenance and optimization ensure reliable, secure connections that support your team's collaborative needs.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/user-guide/collaboration" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Collaboration</a>
+  <a href="#/advanced/customization" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Customization →</a>
+</div>

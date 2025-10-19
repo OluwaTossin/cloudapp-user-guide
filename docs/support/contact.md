@@ -288,3 +288,8 @@ Screenshot attached showing error message
 5. Include browser/device information for technical issues
 
 *Remember: The more detailed information you provide, the faster we can help resolve your issue. Our support team is here to ensure your success with CloudApp.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/support/faq" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: FAQ</a>
+  <span style="color: #ccc;">Next →</span>
+</div>

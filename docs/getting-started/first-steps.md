@@ -162,3 +162,8 @@ Now that you've mastered the basics:
 ---
 
 *Ready to dive deeper? Explore our [comprehensive user guide](user-guide/dashboard.md) for advanced features and workflows.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/getting-started/installation" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Installation</a>
+  <a href="#/getting-started/interface-overview" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Interface Overview →</a>
+</div>

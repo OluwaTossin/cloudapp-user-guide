@@ -294,3 +294,8 @@ CloudApp offers extensive customization options to tailor the platform to your w
 ---
 
 *Effective customization enhances productivity, security, and user satisfaction. Regular review and optimization of these settings ensure CloudApp continues to meet your evolving needs and preferences.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/advanced/integrations" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Integrations</a>
+  <a href="#/advanced/automation" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Automation →</a>
+</div>

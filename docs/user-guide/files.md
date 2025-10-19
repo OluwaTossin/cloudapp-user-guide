@@ -326,3 +326,8 @@ Project Root/
 ---
 
 *Master these file management techniques to maintain organized, secure, and collaborative file storage that scales with your team's needs and supports productive workflows.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/user-guide/projects" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Projects</a>
+  <a href="#/user-guide/collaboration" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: Collaboration →</a>
+</div>

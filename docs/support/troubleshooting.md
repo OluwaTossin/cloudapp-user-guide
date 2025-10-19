@@ -287,3 +287,8 @@ Solution:
 - **[Community Forum](https://community.cloudapp.com)** - User discussions and solutions
 
 *Last updated: October 2024 | If you can't find a solution here, our support team is ready to help 24/7.*
+
+<div style="display: flex; justify-content: space-between; margin-top: 40px; padding: 20px 0; border-top: 2px solid #eee;">
+  <a href="#/advanced/automation" style="text-decoration: none; color: #2c3e50; font-weight: 500;">← Previous: Automation</a>
+  <a href="#/support/faq" style="text-decoration: none; color: #2c3e50; font-weight: 500;">Next: FAQ →</a>
+</div>
