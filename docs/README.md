@@ -62,6 +62,12 @@ This documentation project demonstrates:
 - Documentation maintenance and version control
 - Multi-format content delivery (web, PDF, mobile-friendly)
 
+## 📞 Contact
+
+**Technical Writer**: Oluwatosin Jegede  
+**LinkedIn**: [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/)  
+**Portfolio**: [https://oluwatossin.github.io/](https://oluwatossin.github.io/)
+
 ---
 
 *Last updated: October 2024 | Version 2.0*

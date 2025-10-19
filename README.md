@@ -97,9 +97,11 @@ This documentation follows modern technical communication principles:
 
 ## 📞 Contact
 
-**Technical Writer**: Oluwatossin Ayobami  
+**Technical Writer**: Oluwatosin Jegede  
 **Project Type**: Software Documentation, User Experience Writing  
-**Specialties**: SaaS products, Developer tools, Enterprise software
+**Specialties**: SaaS products, Developer tools, Enterprise software  
+**LinkedIn**: [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/)  
+**Portfolio**: [https://oluwatossin.github.io/](https://oluwatossin.github.io/)
 
 ---
 

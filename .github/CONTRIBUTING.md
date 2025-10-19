@@ -271,6 +271,14 @@ docs/
 - Test troubleshooting procedures
 - Gather real user feedback and pain points
 
+## Contact
+
+For questions about this documentation or contribution guidelines, contact:
+
+**Technical Writer**: Oluwatosin Jegede  
+**LinkedIn**: [https://www.linkedin.com/in/oluwatosinjegede/](https://www.linkedin.com/in/oluwatosinjegede/)  
+**Portfolio**: [https://oluwatossin.github.io/](https://oluwatossin.github.io/)
+
 ---
 
 *This contributing guide ensures consistent, high-quality technical documentation that serves user needs effectively while maintaining professional standards and accessibility compliance.*
