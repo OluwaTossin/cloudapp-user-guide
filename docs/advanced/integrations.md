@@ -8,7 +8,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 
 ### Accessing Integration Settings
 
-![Navigate to Integrations](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Navigate%20to%20Integrations.png)
+![Navigate to Integrations](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Navigate%20to%20Integrations.png)
 *Figure 1: Navigation to integrations section from main dashboard*
 
 **Getting to Integrations**:
@@ -17,14 +17,14 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 3. View connected services and their status
 4. Access integration marketplace for new connections
 
-![Integration Settings](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Integration%20Settings.png)
+![Integration Settings](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Integration%20Settings.png)
 *Figure 2: Integration management dashboard showing all connected services*
 
 ## Cloud Storage Integrations
 
 ### Google Drive Integration
 
-![Google Drive Integration](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Google%20Drive.png)
+![Google Drive Integration](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Google%20Drive.png)
 *Figure 3: Google Drive integration setup interface*
 
 **Setup Process**:
@@ -34,7 +34,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
    - Click **Connect** button
    - Sign in to your Google account
 
-![Google Drive Authorization](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Authorize%20CloudApp.png)
+![Google Drive Authorization](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Authorize%20CloudApp.png)
 *Figure 4: Google Drive authorization screen with permission requests*
 
 2. **Permission Configuration**
@@ -49,7 +49,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
    - Verify Google Drive shows as "Connected"
    - Test connection by accessing Drive files
 
-![Access Google Drive Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Access%20Google%20Drive%20Files.png)
+![Access Google Drive Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Access%20Google%20Drive%20Files.png)
 *Figure 5: CloudApp interface showing integrated Google Drive files*
 
 **Google Drive Features**:
@@ -61,7 +61,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 
 ### Dropbox Integration
 
-![Select Dropbox](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Select%20Dropbox.png)
+![Select Dropbox](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Select%20Dropbox.png)
 *Figure 6: Dropbox integration selection and setup interface*
 
 **Dropbox Setup Steps**:
@@ -76,7 +76,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
    - Grant permission for file access and sharing
    - Confirm integration setup
 
-![Access Dropbox Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Access%20Dropbox%20Files.png)
+![Access Dropbox Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Access%20Dropbox%20Files.png)
 *Figure 7: Integrated Dropbox file browser within CloudApp*
 
 **Dropbox Integration Capabilities**:
@@ -90,7 +90,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 
 ### Connection Issues
 
-![Reauthorize Integration](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Reauthorize%20the%20integration.png)
+![Reauthorize Integration](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Reauthorize%20the%20integration.png)
 *Figure 8: Integration reauthorization interface for connection problems*
 
 **Common Connection Problems**:
@@ -171,7 +171,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 
 ### API Documentation
 
-![API Documentation](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/API%20Documentation.png)
+![API Documentation](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/API%20Documentation.png)
 *Figure 9: CloudApp API documentation interface for developers*
 
 **Available APIs**:
@@ -183,7 +183,7 @@ CloudApp's integration capabilities extend your workflow by connecting with popu
 
 **API Key Management**:
 
-![Generating API Keys](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Generating%20API%20Keys.png)
+![Generating API Keys](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Generating%20API%20Keys.png)
 *Figure 10: API key generation and management interface*
 
 **API Security Features**:

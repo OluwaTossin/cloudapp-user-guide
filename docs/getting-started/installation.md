@@ -35,7 +35,7 @@ For optimal performance, we recommend:
 2. Enter your business email address
 3. Click **Sign Up**
 
-![CloudApp Sign-Up Page](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Sign%20Up%20Page%20(800%20x%20400%20px).png)
+![CloudApp Sign-Up Page](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Sign%20Up%20Page%20(800%20x%20400%20px).png)
 *Figure 1: CloudApp registration form*
 
 ### Step 2: Email Verification

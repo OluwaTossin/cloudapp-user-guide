@@ -6,14 +6,14 @@ Understanding CloudApp's interface is key to working efficiently. This guide pro
 
 ## Main Interface Layout
 
-![CloudApp Dashboard](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/dashboard%20(800%20x%20400%20px).png)
+![CloudApp Dashboard](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/dashboard%20(800%20x%20400%20px).png)
 *Figure 1: CloudApp main interface showing all key components*
 
 ### Interface Components Breakdown
 
 #### 1. Navigation Sidebar
 
-![Navigation Bar](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Navigation%20Bar.png)
+![Navigation Bar](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Navigation%20Bar.png)
 *Figure 2: Left navigation sidebar with main sections*
 
 **Primary Navigation Sections:**
@@ -31,7 +31,7 @@ Understanding CloudApp's interface is key to working efficiently. This guide pro
 
 #### 2. Main Workspace Area
 
-![Main Workspace](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Main%20Workspace.png)
+![Main Workspace](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Main%20Workspace.png)
 *Figure 3: Central workspace showing content and activities*
 
 **Workspace Features:**
@@ -49,12 +49,12 @@ Understanding CloudApp's interface is key to working efficiently. This guide pro
 - **Profile Menu**: Account settings and user options
 - **Help Center**: Question mark icon for support resources
 
-![Search Bar](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/search%20bar.png)
+![Search Bar](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/search%20bar.png)
 *Figure 4: Global search bar with advanced filtering options*
 
 #### 4. Profile and Account Menu
 
-![Profile Menu](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Profile%20Menu.png)
+![Profile Menu](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Profile%20Menu.png)
 *Figure 5: Profile dropdown menu with account options*
 
 **Profile Menu Options:**

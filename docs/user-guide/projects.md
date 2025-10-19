@@ -8,7 +8,7 @@ Projects in CloudApp help you organize work, collaborate with teams, and track p
 
 ### Project Creation Process
 
-![Creating a New Project](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/create%20project.png)
+![Creating a New Project](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/create%20project.png)
 *Figure 1: New project creation form with all available options*
 
 **Step-by-Step Project Setup**:
@@ -50,7 +50,7 @@ Projects in CloudApp help you organize work, collaborate with teams, and track p
 
 ## Managing Existing Projects
 
-![Managing Existing Projects](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Managing%20Existing%20Projects.png)
+![Managing Existing Projects](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Managing%20Existing%20Projects.png)
 *Figure 2: Project management interface showing options and settings*
 
 ### Project Overview Dashboard
@@ -69,7 +69,7 @@ Projects in CloudApp help you organize work, collaborate with teams, and track p
 
 ### Project Settings and Configuration
 
-![Editing Project Information](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Editing%20Project%20Information.png)
+![Editing Project Information](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Editing%20Project%20Information.png)
 *Figure 3: Project settings panel with configuration options*
 
 **Modifiable Settings**:
@@ -81,7 +81,7 @@ Projects in CloudApp help you organize work, collaborate with teams, and track p
 
 ### Team Member Management
 
-![Adding/Removing Team Members](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/AddingRemoving%20Team%20Members.png)
+![Adding/Removing Team Members](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/AddingRemoving%20Team%20Members.png)
 *Figure 4: Team management interface with role assignments*
 
 **Role Definitions**:
@@ -114,7 +114,7 @@ Projects in CloudApp help you organize work, collaborate with teams, and track p
 
 ## File Organization and Management
 
-![File Uploads and Storage](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/File%20Uploads%20and%20Storage.png)
+![File Uploads and Storage](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/File%20Uploads%20and%20Storage.png)
 *Figure 5: File upload interface with organization options*
 
 ### Folder Structure Best Practices
@@ -146,7 +146,7 @@ Project Root/
 
 ### File Management Features
 
-![Managing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Manage%20Files.png)
+![Managing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Manage%20Files.png)
 *Figure 6: File management interface with actions and options*
 
 **File Operations**:
@@ -155,7 +155,7 @@ Project Root/
 - **File Sharing**: Internal team sharing and external link generation
 - **Access Controls**: File-level permissions and expiration dates
 
-![Organizing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Organizing%20Files.png)
+![Organizing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Organizing%20Files.png)
 *Figure 7: File organization tools and folder management*
 
 **Organization Tools**:
@@ -166,7 +166,7 @@ Project Root/
 
 ### Version Control System
 
-![Version Control](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Version%20control.png)
+![Version Control](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Version%20control.png)
 *Figure 8: Version control interface showing file history and changes*
 
 **Version Control Features**:
@@ -180,7 +180,7 @@ Project Root/
 
 ### Sharing and Commenting System
 
-![Sharing and Commenting](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Sharing%20and%20Commenting.png)
+![Sharing and Commenting](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Sharing%20and%20Commenting.png)
 *Figure 9: File sharing interface with permission controls*
 
 **Sharing Options**:
@@ -189,7 +189,7 @@ Project Root/
 3. **Public Sharing**: Open access links with optional expiration
 4. **Embedded Sharing**: Iframe embedding for websites and intranets
 
-![Adding Comments](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Adding%20Comments.png)
+![Adding Comments](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Adding%20Comments.png)
 *Figure 10: Comment system with threaded discussions and mentions*
 
 **Comment Features**:
@@ -201,7 +201,7 @@ Project Root/
 
 ### Real-Time Collaboration
 
-![Real-Time Editing](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Real-Time%20Editing.png)
+![Real-Time Editing](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Real-Time%20Editing.png)
 *Figure 11: Real-time collaboration showing multiple users editing simultaneously*
 
 **Real-Time Features**:
@@ -215,7 +215,7 @@ Project Root/
 
 ### Activity Monitoring
 
-![Activity Feed](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Activity%20Feed.png)
+![Activity Feed](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Activity%20Feed.png)
 *Figure 12: Project activity feed showing team actions and timeline*
 
 **Activity Tracking**:

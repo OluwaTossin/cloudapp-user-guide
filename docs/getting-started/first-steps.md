@@ -10,7 +10,7 @@ This guide walks you through essential tasks to get you productive with CloudApp
 
 When you first log in, you'll see the CloudApp dashboard. Take a moment to identify these key areas:
 
-![CloudApp Main Dashboard](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/dashboard%20(800%20x%20400%20px).png)
+![CloudApp Main Dashboard](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/dashboard%20(800%20x%20400%20px).png)
 *Figure 1: CloudApp dashboard with key areas highlighted*
 
 **Key Areas:**
@@ -40,7 +40,7 @@ Projects help organize your work and team collaboration. Let's create one:
    - Assign roles: Owner, Editor, or Viewer
    - Click **Send Invitations**
 
-![Creating a New Project](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/create%20project.png)
+![Creating a New Project](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/create%20project.png)
 *Figure 2: Project creation form with all fields completed*
 
 ### 3. Upload and Organize Files (5 minutes)

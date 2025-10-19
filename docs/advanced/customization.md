@@ -8,7 +8,7 @@ CloudApp offers extensive customization options to tailor the platform to your w
 
 ### General Settings
 
-![General Settings](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/General%20Settings.png)
+![General Settings](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/General%20Settings.png)
 *Figure 1: General user settings interface with profile information*
 
 **Personal Information Management**:
@@ -27,7 +27,7 @@ CloudApp offers extensive customization options to tailor the platform to your w
 
 ### Security and Privacy Settings
 
-![Change Password](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Change%20Password.png)
+![Change Password](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Change%20Password.png)
 *Figure 2: Password change interface with security requirements*
 
 **Account Security Features**:
@@ -65,7 +65,7 @@ CloudApp offers extensive customization options to tailor the platform to your w
 
 ### Email Notifications
 
-![Email Notifications](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Email%20Notifications.png)
+![Email Notifications](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Email%20Notifications.png)
 *Figure 3: Email notification settings with granular controls*
 
 **Email Notification Categories**:
@@ -92,7 +92,7 @@ CloudApp offers extensive customization options to tailor the platform to your w
 
 ### Push Notifications
 
-![Push Notifications](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Push%20Notifications.png)
+![Push Notifications](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Push%20Notifications.png)
 *Figure 4: Push notification configuration for desktop and mobile*
 
 **Push Notification Types**:
@@ -113,7 +113,7 @@ CloudApp offers extensive customization options to tailor the platform to your w
 
 ### Theme and Appearance Settings
 
-![Theme Settings](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Theme%20Settings.png)
+![Theme Settings](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Theme%20Settings.png)
 *Figure 5: Theme and appearance customization options*
 
 **Theme Options**:

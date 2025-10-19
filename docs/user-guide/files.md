@@ -8,7 +8,7 @@ CloudApp's file management system provides secure, organized, and collaborative 
 
 ### Upload Methods
 
-![File Upload Interface](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/File%20Uploads%20and%20Storage.png)
+![File Upload Interface](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/File%20Uploads%20and%20Storage.png)
 *Figure 1: File upload interface with multiple upload options*
 
 **Upload Options:**
@@ -48,7 +48,7 @@ CloudApp's file management system provides secure, organized, and collaborative 
 
 ### Folder Structure and Hierarchy
 
-![Organizing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Organizing%20Files.png)
+![Organizing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Organizing%20Files.png)
 *Figure 2: File organization interface showing folder hierarchy and management*
 
 **Organization Best Practices:**
@@ -80,7 +80,7 @@ Project Root/
 
 ### File Management Operations
 
-![Managing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Manage%20Files.png)
+![Managing Files](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Manage%20Files.png)
 *Figure 3: File management interface with action options and controls*
 
 **Basic File Operations:**
@@ -119,7 +119,7 @@ Project Root/
 
 ### Automatic Version Management
 
-![Version Control](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Version%20control.png)
+![Version Control](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Version%20control.png)
 *Figure 4: Version control interface showing file history and changes*
 
 **Version Control Features:**
@@ -149,7 +149,7 @@ Project Root/
 
 ### Sharing Options
 
-![Sharing and Commenting](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Sharing%20and%20Commenting.png)
+![Sharing and Commenting](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Sharing%20and%20Commenting.png)
 *Figure 5: File sharing interface with permission controls and options*
 
 **Internal Sharing:**
@@ -186,7 +186,7 @@ Project Root/
 
 ### Real-Time Collaboration
 
-![Real-Time Editing](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Real-Time%20Editing.png)
+![Real-Time Editing](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Real-Time%20Editing.png)
 *Figure 6: Real-time collaboration showing multiple users editing simultaneously*
 
 **Collaborative Editing:**
@@ -205,7 +205,7 @@ Project Root/
 
 ### Communication and Feedback
 
-![Adding Comments](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Adding%20Comments.png)
+![Adding Comments](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Adding%20Comments.png)
 *Figure 7: Comment system with threaded discussions and mentions*
 
 **Comment Features:**

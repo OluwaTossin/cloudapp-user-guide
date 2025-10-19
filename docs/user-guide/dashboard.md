@@ -8,7 +8,7 @@ The CloudApp dashboard serves as your command center for managing projects, file
 
 ### Main Interface Components
 
-![CloudApp Dashboard Layout](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/dashboard%20(800%20x%20400%20px).png)
+![CloudApp Dashboard Layout](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/dashboard%20(800%20x%20400%20px).png)
 *Figure 1: CloudApp dashboard with all key interface components*
 
 1. **Global Navigation** (Left Sidebar)

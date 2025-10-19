@@ -18,7 +18,7 @@ This comprehensive troubleshooting guide helps you resolve common CloudApp issue
 
 **Detailed Resolution**:
 
-![Login Issues Resolution](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Unable%20to%20Log%20In.png)
+![Login Issues Resolution](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Unable%20to%20Log%20In.png)
 *Figure 1: Password reset interface for login issues*
 
 ```

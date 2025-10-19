@@ -8,7 +8,7 @@ CloudApp's collaboration features transform individual work into seamless team p
 
 ### Live Editing and Co-Authoring
 
-![Real-Time Editing](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Real-Time%20Editing.png)
+![Real-Time Editing](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Real-Time%20Editing.png)
 *Figure 1: Real-time collaboration showing multiple users editing simultaneously*
 
 **Real-Time Features:**
@@ -45,7 +45,7 @@ CloudApp's collaboration features transform individual work into seamless team p
 
 ### Comment System
 
-![Adding Comments](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Adding%20Comments.png)
+![Adding Comments](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Adding%20Comments.png)
 *Figure 2: Advanced comment system with threaded discussions*
 
 **Comment Features:**
@@ -64,7 +64,7 @@ CloudApp's collaboration features transform individual work into seamless team p
 
 ### Sharing and Communication
 
-![Sharing and Commenting](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Sharing%20and%20Commenting.png)
+![Sharing and Commenting](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Sharing%20and%20Commenting.png)
 *Figure 3: File sharing interface with communication tools*
 
 **Communication Channels:**
@@ -85,7 +85,7 @@ CloudApp's collaboration features transform individual work into seamless team p
 
 ### Activity Feed
 
-![Activity Feed](https://github.com/OluwaTossin/cloudapp-user-guide-images/blob/main/Activity%20Feed.png)
+![Activity Feed](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Activity%20Feed.png)
 *Figure 4: Comprehensive activity feed showing team actions and updates*
 
 **Activity Tracking:**
