@@ -4,6 +4,8 @@
 
 CloudApp's automation and workflow capabilities streamline repetitive tasks, enforce business processes, and enhance productivity through intelligent automation. This guide covers workflow creation, task automation, custom business logic, and advanced process optimization.
 
+![API Documentation](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/API%20Documentation.png)
+
 ## Workflow Fundamentals
 
 ### Understanding CloudApp Workflows

@@ -4,6 +4,8 @@
 
 CloudApp is a web-based application that requires no local installation. This guide covers system requirements, account creation, and initial setup to ensure optimal performance.
 
+![CloudApp Logo](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/CloudApp.png)
+
 ## System Requirements
 
 ### Minimum Requirements
@@ -50,6 +52,8 @@ For optimal performance, we recommend:
    - Full name
    - Job title/role
    - Company name (optional)
+
+![Sign Up Page](https://github.com/OluwaTossin/cloudapp-user-guide-images/raw/main/Sign%20Up%20Page.png)
 
 2. **Account Security**
    - Create a strong password (8+ characters, mixed case, numbers, symbols)
